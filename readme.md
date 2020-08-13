@@ -2,7 +2,7 @@
 
 ## Плагин для показа текста по буквам с определенным интервалом 
 
-![] ();
+![](https://sergey2342.github.io/show-text-interval/hello.gif);
 
 ### Пункт 1: Подключение плагина
 
@@ -10,7 +10,7 @@
 
 ```html
 <!-- show-text-interval Javascript file -->
-<script src="./show-text-interval.js"></script>
+<script src="https://sergey2342.github.io/show-text-interval/show-text-interval.js"></script>
 ```
 
 ### Пункт 2: Добавление тега на страницу
