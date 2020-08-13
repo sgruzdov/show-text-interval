@@ -40,3 +40,7 @@ showTextInterval({
   interval: ваш интервал
 });
 ```
+
+Так же, меняя стиль `text-align` можно добиться разный вид появления текста.
+
+![](https://sergey2342.github.io/show-text-interval/gif/hello-center.gif)
