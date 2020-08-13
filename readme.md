@@ -2,7 +2,7 @@
 
 ## Плагин для показа текста по буквам с определенным интервалом 
 
-![](https://sergey2342.github.io/show-text-interval/hello.gif);
+![](https://sergey2342.github.io/show-text-interval/gif/hello.gif)
 
 ### Пункт 1: Подключение плагина
 
