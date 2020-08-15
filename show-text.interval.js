@@ -1,4 +1,4 @@
-function showTextInterval({selector = '.text-interval', interval = 50, opacity = '1'}) {
+function showTextInterval({selector = '.text-interval', interval = 50, opacity = '1'} = {}) {
     const arrSel = document.querySelectorAll(selector);
     
     arrSel.forEach(elem => {
